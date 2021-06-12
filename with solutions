@@ -1,0 +1,6 @@
+# Write a Python program to get a string which is n (non-negative integer) copies of a given string.
+
+n = 'Anirban'
+multiplicable_number = 3
+result = n * multiplicable_number
+print(result)
